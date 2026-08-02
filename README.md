@@ -60,17 +60,22 @@ An end-to-end **comparative data analysis** of Airbnb listings across two major 
 ---
 
 ##  Power BI Dashboard
-| Page | Content |
-|---|---|
-| Page 1 — Market Overview | KPI cards, listings bar chart, map |
-| Page 2 — Pricing Analysis | Price by room type, neighbourhood pricing, availability |
-| Page 3 — NY vs Bangkok | Side-by-side comparison of all key metrics |
+
+### Page 1 — Market Overview 
+<img width="1328" height="730" alt="Screenshot 2026-08-02 213813" src="https://github.com/user-attachments/assets/2abb536c-84c8-4fbd-935b-a2869f3b5cdf" />
+
+### Page 2 — Pricing Analysis  
+<img width="1329" height="743" alt="Screenshot 2026-08-02 132421" src="https://github.com/user-attachments/assets/3d472815-bcce-4f04-b12c-dac8adfe08e1" />
+
+### Page 3 — NY vs Bangkok
+<img width="1310" height="735" alt="Screenshot 2026-08-02 132500" src="https://github.com/user-attachments/assets/d6c7c798-55a1-4516-85df-76d96aebdeb7" />
+
 
 ---
 
 ##  Key Insights
 - **Bangkok** has more listings (~31K) than New York (~30K).
-- **Bangkok** has significantly more expensive — avg $2955 vs $278 per night.
+- **New York** is more expensive — avg $278/night vs Bangkok ฿2,955/night (~$85 USD), making NY ~3x costlier than Bangkok.
 - **Entire home/apt** is the most common and expensive room type in both cities.
 - **Bangkok** has higher review frequency indicating stronger short-term demand
 - Hotel rooms show highest year-round availability(~268 days) in **New York**. 
